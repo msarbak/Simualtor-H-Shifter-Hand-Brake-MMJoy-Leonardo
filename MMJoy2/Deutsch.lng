@@ -1,0 +1,168 @@
+Configurator
+Geräte und Einstellugen
+Konfig. vom Gerät laden
+Konfig. auf Gerät speichern
+Konfig. aus Datei laden
+Konfig. als Datei speichern
+Geräteliste aktualisieren
+Geräte anschließen und Liste aktualisieren
+Konfiguration löschen
+Technische Daten
+Schema:
+Takt (Mhz):
+Laufzeit:
+Quelle
+MCU Port
+Kanal
+Tastenmatrix
+USB-Kennung des Geräts
+USB Name
+Kennung löschen
+Joystick-Tasten
+Tasten/HATs:
+Hat
+Hoch
+Runter
+Links
+Rechts
+Joystick-Achsen
+Achse
+Quelle
+Zuweisung
+Filter
+Invertieren
+Zoom
+Teiler
+Reduktion
+relative
+Sensor Min./Mitte/Max.
+Verringern
+Zurück zur Mitte
+Erhöhen
+Änderungswert:
+Reichweite
+IntSensor
+Virtuell
+Verbunden zu
+Fehler: Doppelbelegung der Quelle 
+für Achse #
+Fehler: Keine Zuweisung der Achse #
+Fehler: Doppelbelegung
+Fehler: Gleiche Tasten für 'Stop' und 'Zoom' der Achse #
+Fehler: Keine Taste für Hat 'Hoch' zugewiesen. 
+Fehler: Keine Taste für Hat 'Runter' zugewiesen.
+Fehler: Keine Taste für Hat 'Links' zugewiesen.
+Fehler: Keine Taste für Hat 'Rechts' zugewiesen.
+Fehler: Doppelbelegung der Tastenmatrix  
+für Joystick-Taste Hat 'Hoch'
+für Joystick-Taste Hat 'Runter'
+für Joystick-Taste Hat 'Links'
+für Joystick-Taste Hat 'Rechts'
+für Joystick-Taste 
+Fehler: Keine Zuweisung der Taste 'Zurück zur Mitte' für Achse #
+Fehler: Keine Zuweisung der Taste 'Verringern' für Achse #
+Fehler: Keine Zuweisung der Taste 'Erhöhen' für Achse #
+Fehler: Kein Wert 'Sensor Mitte' für Achse #
+Fehler: Wert 'Sensor Mitte' kann nicht kleiner sein als 'Sensor Min.' der Achse #
+Fehler: Wert 'Sensor Max.' kann nicht kleiner sein als 'Sensor Mitte' der Achse #
+Ok. Benutzte Achsen: 
+, Tasten:
+Schleife Zeit(ms)
+USB (P/s)
+Keine
+Mem.limit(kB)
+(Limitiert 6 Achsen, 32 Tasten und 2 Hats. Keine Drehencoder/ext. Achsen.)
+p
+r
+s
+Joystick
+Zwei Joysticks 
+Gerät neu starten 
+Ext.Sensor
+Ext.Sensoren:
+Drehencoder:
+Über MMJOY
+autom. Kalibrierung
+autom.mit Mitte
+autom.ohne Mitte
+saved.mit Mitte
+saved.ohne Mitte
+Bootloader starten
+Firmware Datei
+Chip
+Bootloader Typ
+Port(arduino)
+Firmware laden
+EEPROM löschen
+Spende! Unterstütze das Projekt!
+COM-Port Liste
+Auto-start upload firmware when COM ports is active
+Geratemanager
+rows
+columns
+wert
+Firmware
+DZ dynamical
+Calibrate GMR
+Joy-tester
+raw
+min
+max
+step
+fps
+Reset stat.
+Shift register
+LED-RGB WS2811(port B5)
+LED-8Digits MAX7219(port B4)
+Default color
+Brightness (MAX7219)
+Get
+set
+Pulse length (ms)
+Spec.Functions
+Cursor (axis)
+symmetrical
+Curves:
+DZ low
+DZ center
+DZ high
+Precision(bit)
+Axis to button
+button
+axis
+from (%)
+to (%)
+Shift
+Timer
+H/W.Button
+Button
+Mode
+Switch
+ON
+OFF
+Soft Switch
+Encoder
+Clear buttons sets
+yes
+no
+row
+processed
+calibration min.
+calibration center.
+calibration max.
+link errors
+Mouse emulation
+Mouse and keyboard
+Keyboard modifier
+delay
+ms
+Calibrate helper
+axis name
+current
+minimum
+center
+maximum
+Clear data
+Set center
+Save calibration
+Configurator version does not meet the firmware version.

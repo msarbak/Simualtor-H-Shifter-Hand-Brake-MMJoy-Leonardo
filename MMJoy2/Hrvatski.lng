@@ -1,0 +1,168 @@
+Konfigurator
+Popis ureðaja i konfiguracija
+Uèitaj postavke iz ureðaja
+Spremi postavke na ureðaj
+Uèitaj postavke iz datoteke
+Spremi postavke u datoteku
+Ažuriranje liste USB ureðaja
+Ukljuèite ureðaj i odaberte ga na listi
+Izbriši postavke
+Hardverski podaci ureðaja
+Shema:
+Kristal (MHz):
+Vrijeme korištenja:
+Vrsta senzora
+MCU Port
+Kanal
+Matrica prekidaèa
+Parametri USB ureðaja
+Ime ureðaja
+Izbriši registry
+Tipke joysticka
+Tipke / HAT:
+HAT
+Gore
+Dolje
+Lijevo
+Desno
+Osi joysticka
+Osi
+Izvor
+Namjena
+Filtar
+Inverzija
+Zoom
+Djelitelj
+Redukcija
+Relativno
+Senzor min. / centar / maks.
+Smanji
+Vrati u sredinu
+Poveæaj
+Korak promjene
+Domet
+Int. senzor 
+Virtualni senzor
+Spojeno na
+Greška! Senzori koriste isti MCU port,
+na osi
+Greška! Nema namjene za os
+Greška! Os ima istu namjenu 
+Greška! Iste tipke za "Stop" i "Zoom" na osi 
+Greška! Nije unesen broj prekidaèa "Gore" za HAT 
+Greška! Nije unesen broj prekidaèa "Dolje" za HAT 
+Greška! Nije unesen broj prekidaèa "Lijevo" za HAT 
+Greška! Nije unesen broj prekidaèa "Desno" za HAT 
+Greška! Koriste se isti prekidaèi: 
+i prekidaè "Gore" za HAT 
+i prekidaè "Dolje" za HAT 
+i prekidaè "Lijevo" za HAT 
+i prekidaè "Desno" za HAT 
+na tipki joysticka
+Greška! Nije unesen broj prekidaèa "Vrati u sredinu" na osi
+Greška! Nije unesen broj prekidaèa "Smanji" na osi
+Greška! Nije unesen broj prekidaèa "Poveæaj" na osi
+Greška! Nema vrijednosti za "Centar senzora" na osi
+Greška! Vrijednost "Centar senzora" ne može biti manja od "Min. senzora" na osi
+Greška! Vrijednost "Max. senzora" ne može biti manja os "Centar senzora" na osi
+U redu. Broj osi:
+; Broj tipki:
+Loop time (ms)
+USB (p/s)
+0ff
+Mem. limit (kB)
+(Ogranièeno na 6 osi, 32 prekidaèa i 2 HATa. Bez kodera/vanjskih osi.)
+p
+r
+s
+Joystick
+Dva joysticka
+Ponovo pokretanje ureðaja
+Vanjski senzor
+Vanjski senzori:
+Koderi (encoders):
+O programu
+Auto-kalibracija
+Auto. s centrom
+Auto. bez centra
+Snimljeno s centrom
+Snimljeno bez centra
+Pokreni bootloader
+Datoteka firmwarea
+Èip
+Tip bootloadera
+Port (arduino)
+Uèitaj firmware
+Izbriši EEPROM
+Donirajte. Pomognite ovom projektu!
+Lista COM portova
+Auto-start upload firmware when COM ports is active
+Upravitelj ureðaja
+Redovi
+Stupci
+Vrijednost
+Firmware
+DEAD ZONE - dinamièki
+Kalibriraj GMR
+Joy-tester
+raw
+min.
+maks.
+korak
+fps
+Reset stat.
+Shift register
+LED-RGB WS2811(port B5)
+LED-8Digits MAX7219(port B4)
+Zadana boja
+Brightness (MAX7219)
+Preuzmi
+Postavi
+Trajanje pulsa (ms)
+Posebne funkcije
+Kursor (osi)
+Simetrièno
+Krivulje:
+DEAD ZONE   -    dolje
+DEAD ZONE   -  centar
+DEAD ZONE   -    gore
+Preciznost (bita)
+Os kao tipka
+Tipka 
+Os
+Od (%)
+Do (%)
+Shift
+Timer
+Prekidaè
+Tipka
+Naèin rada
+Prekidaè
+ON
+OFF
+Mekani prekidaè
+Encoder
+Izbriši postavke tipki
+Da
+Ne
+- ROW
+- PROCESSED
+Kalibracijski minimum
+Kalibracijski centar
+Kalibracijski maksimum
+Greške povezivanja
+Emulacija miša
+Miš i tipkovnica
+Modifikator tipkovnice
+Odgoda
+ms
+Calibrate helper
+axis name
+current
+minimum
+center
+maximum
+Clear data
+Set center
+Save calibration
+Configurator version does not meet the firmware version.

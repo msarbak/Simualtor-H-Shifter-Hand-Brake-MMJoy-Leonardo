@@ -1,0 +1,168 @@
+Configurator
+Device list and configuration
+Load sets from device
+Save sets to device
+Load sets from file
+Save sets to file
+Update USB list
+Plug device and click at list
+Clear sets
+Device hardware data
+Scheme:
+Crystal(Mhz):
+Uptime:
+Source
+MCU Port
+Channel
+Button matrix
+Device USB parameters
+USB Name
+Clear registry
+Joysticks buttons
+Buttons/HATs:
+Hat
+Up
+Down
+Left
+Right
+Joysticks axes
+Axis
+Source
+Assignment
+Filter
+Invertion
+Zoom
+Divisor
+Reduction
+Relative
+Sensor min./center/max.
+Decrease
+Return to center
+Increase
+Step of change
+Range
+IntSensor
+Virtual
+Connected to
+Error. Secondary using source 
+at axis #
+Error. No assignment at axis #
+Error. Secondary using assignment 
+Error. Match buttons 'Stop' and 'Zoom' at axis #
+Error. No button 'up' hat
+Error. No button 'down' hat
+Error. No button 'left' hat
+Error. No button 'right' hat
+Error. Secondary using button
+at joystick button 'up' hat
+at joystick button 'down' hat
+at joystick button 'left' hat
+at joystick button 'right' hat
+at joystick button 
+Error. No assignment for button 'Return to center' at axis #
+Error. No assignment for button 'Decrease' at axis #
+Error. No assignment for button 'Increase' at axis #
+Error. No value 'Sensor center' at axis #
+Error. Value 'Sensor center' cant be less than 'Sensor min.' at axis #
+Error. Value 'Sensor max.' cant be less than 'Sensor center' at axis #
+Ok. Used axis 
+, buttons
+Loop time(ms)
+USB (p/s)
+0ff
+Mem.limit(kB)
+(Limited 6 Axis, 32 Buttons and 2 HATs. No encoders/External axis.)
+p
+r
+s
+Joystiñk
+Two joystiñks 
+Restart device
+ExtSensor
+Ext.Sensors:
+Encoders:
+About
+Auto-calibration
+auto.w center
+auto.w/o center
+saved.w center
+saved.w/o center
+Start bootloader
+Firmware file
+Chip
+Bootloader type
+Port(arduino)
+Upload firmware
+Clear EEPROM
+Donate. Help the project!
+COM ports list
+Auto-start upload firmware when COM ports is active
+Device management
+rows
+columns
+value
+Firmware
+DZ dynamical
+Calibrate GMR
+Joy-tester
+raw
+min
+max
+step
+fps
+Reset stat.
+Shift register
+LED-RGB WS2811(port B5)
+LED-8Digits MAX7219(port B4)
+Default color
+Brightness (MAX7219)
+Get
+set
+Pulse length (ms)
+Spec.Functions
+Cursor (axis)
+symmetrical
+Curves:
+DZ low
+DZ center
+DZ high
+Precision(bit)
+Axis to button
+button
+axis
+from (%)
+to (%)
+Shift
+Timer
+H/W.Button
+Button
+Mode
+Switch
+ON
+OFF
+Soft Switch
+Encoder
+Clear buttons sets
+yes
+no
+row
+processed
+calibration min.
+calibration center.
+calibration max.
+link errors
+Mouse emulation
+Mouse and keyboard
+Keyboard modifier
+delay
+ms
+Calibrate helper
+axis name
+current
+minimum
+center
+maximum
+Clear data
+Set center
+Save calibration
+Configurator version does not meet the firmware version.
